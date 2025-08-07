@@ -7,6 +7,6 @@
   131  chmod +x deploy.sh
   132  ./deploy.sh
   133  cd Project-Navigator
-  134  history |tail
+  134  history |tai
 
-Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 ()
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (
